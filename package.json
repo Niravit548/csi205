@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Niravit548.github.io/csi205/",
+  "homepage": "https://Niravit548.github.io/csi205",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
